@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Dhanesh-GL/Dhanesh-GL/output/snake.svg" alt="Snake animation" />
-
-###
